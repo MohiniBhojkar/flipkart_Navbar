@@ -15,7 +15,7 @@ This project is a replica of Flipkart's navbar and header sections, built using 
    Open `index.html` in a web browser.
 2. Clone the repository:
    
-   git clone 
+   git clone  https://mohinibhojkar.github.io/flipkart_Navbar/
      
 
 
